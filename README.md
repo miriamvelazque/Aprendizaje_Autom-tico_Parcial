@@ -37,5 +37,5 @@ El modelado supervisado y la evaluación de resultados se desarrollarán en la *
 
 **Miriam Velazque**  
 Estudiante de Ciencia de Datos e Inteligencia Artificial  
-Universidad Nacional de Tierra del Fuego  
+Politécnico Malvinas Argentinas
 
